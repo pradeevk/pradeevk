@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pradeeshwaran S</h1>
-<h3 align="center">I'm Passionate For 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 and 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 From India</h3>
 
 - 🔭 I’m currently studying at **Jai Shriram Engineering College**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Full Stack Developer | Passionate DSA Problem Solver
 
 - 📫 How to reach me **pradeeshwaran265@gmail.com**
 
@@ -36,9 +35,6 @@
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a> 
 </p>
 
